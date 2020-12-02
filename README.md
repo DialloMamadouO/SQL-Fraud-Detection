@@ -45,8 +45,15 @@ The CEO of the firm's biggest customer suspects that someone has used her corpor
 
 Using Plotly Express, we created a series of six box plots, one for each month, in order to identify how many outliers there are per month for cardholder ID 25.
 
-
 We noticed anomalies, described our observations and conclusions.
+
+### Challenge
+As challenge, we looked for outliers in the data to identify fraudulent transactions. Standard deviation or quartiles were used to detect outliers.
+
+We coded a function using Python to identify anomalies for any cardholder.
+
+
+
 
 
 
