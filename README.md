@@ -4,7 +4,9 @@ We will strive to accomplish three main tasks:
 
 
 ### Data Modeling:
-Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
+
+Using Quick Database Diagrams, we created an entity relationship diagram (ERD) by inspecting the provided CSV files.
+We created five tables and defined primary and foreign keys for each table to establish the kind of relationships we need to define among the tables.
 
 ### Data Engineering: 
 Create a database schema on PostgreSQL and populate your database from the CSV files provided.
